@@ -1,0 +1,2 @@
+# Case Sensitivity Problem
+Tests the issue where Roosevelt/Express response objects may behave differently if a view template were specified using a case sensitive or insensitive value in different operating environments.
